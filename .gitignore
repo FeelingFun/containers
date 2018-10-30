@@ -26,6 +26,11 @@
 *.exe
 *.out
 *.app
+*.pyc
+*.DS_Store
+.vscode
 
 build/**
 benchmarks/build/**
+benchmarks/*.png
+benchmarks/*.svg
